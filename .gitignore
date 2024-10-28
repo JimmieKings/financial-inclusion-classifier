@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+
+# Python virtual environment and settings
+.venv/
+.vscode/
+.ipynb_checkpoints/
+.python_history
+
+# Common system folders
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Shell history files
+.bash_history
+.zsh_history
